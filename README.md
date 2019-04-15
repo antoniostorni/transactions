@@ -39,5 +39,5 @@ python manage.py runserver
 
 URL
 ```
-http://localhost:8000/
+http://localhost:8000/admin/
 ```
